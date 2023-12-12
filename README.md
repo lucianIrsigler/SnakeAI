@@ -51,5 +51,5 @@ The only issue with this approach is that if 2+ moves have the same total availa
 Due to time constraints, I was unable to implementate a function to check which best move was the "best" and would reduce the chance of dying.
 
 ## Result
-I was in the top 15 of my class. There was around 120+ submissions.
+I was in the top 15 of my class. There was over 120+ submissions.
 
