@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="snakeAI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/snakeAI_jar</output-path>
+    <root id="archive" name="snakeAI.jar">
+      <element id="module-output" name="snakeAI" />
+      <element id="extracted-dir" path="D:/Download_holder/folders/Document_holder/AA_jar/Snake2023-v1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
